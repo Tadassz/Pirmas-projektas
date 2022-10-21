@@ -88,7 +88,7 @@ ofstream isvedimoFailas("results.txt");
 	}
 	else
 	{
-		cout << left
+		isvedimoFailas << left
 			<< setw(20) << "Pavarde"
 			<< setw(15) << "Vardas"
 			<< setw(10) << "Galutinis (Med.)"
@@ -108,7 +108,7 @@ ofstream isvedimoFailas("results.txt");
 			else median = ((double)studentai[i].nd[studentai[i].nd.size() / 2] + (double)studentai[i].nd[studentai[i].nd.size() / 2 - 1]) / 2;
 
 			double final = median * 0.4 + studentai[i].egzaminas * 0.6;
-			cout << left
+			isvedimoFailas << left
 				<< setw(20) << studentai[i].pavarde
 				<< setw(15) << studentai[i].vardas
 				<< setw(15) << fixed << setprecision(2) << final
