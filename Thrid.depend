@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1666297117 source:c:\users\vartotojas\desktop\third\thrid\funkcijos.cpp
+	"decl.h"
+
+1666296095 c:\users\vartotojas\desktop\third\thrid\decl.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<string>
+	<functional>
+	<random>
+	<vector>
+	<algorithm>
+	<chrono>
+	<io.h>
+	<direct.h>
+
+1666297117 source:c:\users\vartotojas\desktop\third\thrid\vektoriai.cpp
+	"decl.h"
+
