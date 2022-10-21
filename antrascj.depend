@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1666290022 source:c:\users\vartotojas\desktop\gal antras\antrascj\main.cpp
+	"declarationss.h"
+
+1666290998 c:\users\vartotojas\desktop\gal antras\antrascj\declarationss.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<string>
+	<functional>
+	<random>
+	<ctime>
+	<vector>
+	<algorithm>
+
+1666289696 source:c:\users\vartotojas\desktop\gal antras\antrascj\functions2.cpp
+	"declarationss.h"
+
