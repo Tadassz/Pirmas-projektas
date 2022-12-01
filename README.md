@@ -10,113 +10,128 @@ Prieš kiekvieną testavimą klausiama kokią strategija norime rinktis testavim
 
 1) Testavimo su vektoriais ir pirmąja strategija (Studentai ikeliami i du naujus konteinerius) pavyzdys.
 
-Programos veikimo spartos testas su 1000 studentu pradetas.
-
-Duomenys nuskaityti.
-Duomenu (1000 studentu) nuskaitymas is failo uztruko 0.0160262 s.
-1000 studentu rusiavimas uztruko 0 s.
-1000 studentu (gerieciu) isvedimas i faila 'rez_gerieciai1000vector.txt' uztruko 0 s.
-Duomenys isvesti i faila 'rez_blogieciai1000vector.txt'.
-1000 studentu (blogieciu) isvedimas i faila 'rez_blogieciai1000vector.txt' uztruko 0.0040148 s.
-
-1000 irasu testas uztruko 0.0280255 s.
-
-Ar norite toliau testuoti (kitas testas - su 10000 irasu)? Iveskite t/n:
+Ar norite toliau testuoti (kitas testas - su 1000000 irasu)? Iveskite t/n:
 t
 
-Programos veikimo spartos testas su 10000 studentu pradetas.
+Programos veikimo spartos testas su 1000000 studentu pradetas.
 
+Sugeneruotas 1000000 dydzio failas.
+1000000 studentu failo generavimas uztruko 15.2934 s.
 Duomenys nuskaityti.
-Duomenu (10000 studentu) nuskaitymas is failo uztruko 0.133384 s.
-10000 studentu rusiavimas uztruko 0.0360118 s.
-10000 studentu (gerieciu) isvedimas i faila 'rez_gerieciai10000vector.txt' uztruko 0.0040019 s.
-Duomenys isvesti i faila 'rez_blogieciai10000vector.txt'.
-10000 studentu (blogieciu) isvedimas i faila 'rez_blogieciai10000vector.txt' uztruko 0.0400235 s.
+Duomenu (1000000 studentu) nuskaitymas is failo uztruko 9.30872 s.
+1000000 studentu rusiavimas uztruko 2.96485 s.
+1000000 studentu (gerieciu) isvedimas i faila 'rez_gerieciai1000000vector.txt' uztruko 0.004001 s.
+Duomenys isvesti i faila 'rez_blogieciai1000000vector.txt'.
+1000000 studentu (blogieciu) isvedimas i faila 'rez_blogieciai1000000vector.txt' uztruko 2.30223 s.
 
-10000 irasu testas uztruko 0.217406 s.
+1000000 irasu testas uztruko 29.8772 s.
+
+Ar norite toliau testuoti (kitas testas - su 10000000 irasu)? Iveskite t/n:
+t
+
+Programos veikimo spartos testas su 10000000 studentu pradetas.
+
+Sugeneruotas 10000000 dydzio failas.
+10000000 studentu failo generavimas uztruko 151.737 s.
+Duomenys nuskaityti.
+Duomenu (10000000 studentu) nuskaitymas is failo uztruko 86.4328 s.
+10000000 studentu rusiavimas uztruko 35.1833 s.
+10000000 studentu (gerieciu) isvedimas i faila 'rez_gerieciai10000000vector.txt' uztruko 0 s.
+Duomenys isvesti i faila 'rez_blogieciai10000000vector.txt'.
+10000000 studentu (blogieciu) isvedimas i faila 'rez_blogieciai10000000vector.txt' uztruko 38.717 s.
+
+10000000 irasu testas uztruko 312.074 s.
 
 2) Testavimo su vektoriais ir antraja strategija (studentai įkeliami į blogiečių konteinerį, geriečiai paliekami studentų konteineryje) pavyzdys.
 
-Programos veikimo spartos testas su 1000 studentu pradetas.
-
-Duomenys nuskaityti.
-Duomenu (1000 studentu) nuskaitymas is failo uztruko 0.0159939 s.
-1000 studentu rusiavimas uztruko 0.0039973 s.
-1000 studentu (gerieciu) isvedimas i faila 'rez_gerieciai1000vector.txt' uztruko 0 s.
-Duomenys isvesti i faila 'rez_blogieciai1000vector.txt'.
-1000 studentu (blogieciu) isvedimas i faila 'rez_blogieciai1000vector.txt' uztruko 0.004 s.
-
-1000 irasu testas uztruko 0.0279953 s.
-
-Ar norite toliau testuoti (kitas testas - su 10000 irasu)? Iveskite t/n:
+Ar norite toliau testuoti (kitas testas - su 1000000 irasu)? Iveskite t/n:
 t
 
-Programos veikimo spartos testas su 10000 studentu pradetas.
+Programos veikimo spartos testas su 1000000 studentu pradetas.
 
 Duomenys nuskaityti.
-Duomenu (10000 studentu) nuskaitymas is failo uztruko 0.163857 s.
-10000 studentu rusiavimas uztruko 0.0320081 s.
-10000 studentu (gerieciu) isvedimas i faila 'rez_gerieciai10000vector.txt' uztruko 0 s.
-Duomenys isvesti i faila 'rez_blogieciai10000vector.txt'.
-10000 studentu (blogieciu) isvedimas i faila 'rez_blogieciai10000vector.txt' uztruko 0.0400171 s.
+Duomenu (1000000 studentu) nuskaitymas is failo uztruko 11.471 s.
+1000000 studentu rusiavimas uztruko 2.52466 s.
+1000000 studentu (gerieciu) isvedimas i faila 'rez_gerieciai1000000vector.txt' uztruko 0 s.
+Duomenys isvesti i faila 'rez_blogieciai1000000vector.txt'.
+1000000 studentu (blogieciu) isvedimas i faila 'rez_blogieciai1000000vector.txt' uztruko 2.04896 s.
 
-10000 irasu testas uztruko 0.235882 s.
+1000000 irasu testas uztruko 16.0446 s.
+
+Ar norite toliau testuoti (kitas testas - su 10000000 irasu)? Iveskite t/n:
+t
+
+Programos veikimo spartos testas su 10000000 studentu pradetas.
+
+Duomenys nuskaityti.
+Duomenu (10000000 studentu) nuskaitymas is failo uztruko 83.5828 s.
+10000000 studentu rusiavimas uztruko 33.4018 s.
+10000000 studentu (gerieciu) isvedimas i faila 'rez_gerieciai10000000vector.txt' uztruko 0 s.
+Duomenys isvesti i faila 'rez_blogieciai10000000vector.txt'.
+10000000 studentu (blogieciu) isvedimas i faila 'rez_blogieciai10000000vector.txt' uztruko 30.2917 s.
+
+10000000 irasu testas uztruko 147.276 s.
 
 3) Testavimo su list'u ir pirmaja strategija pavyzdys.
 
-Programos veikimo spartos testas su 1000 studentu pradetas.
 
-Duomenys nuskaityti.
-Duomenu (1000 studentu) nuskaitymas is failo uztruko 0.0200109 s.
-1000 studentu rusiavimas uztruko 0.0040198 s.
-1000 studentu (gerieciu) isvedimas i faila 'rez_gerieciai1000list.txt' uztruko 0 s.
-Duomenys isvesti i faila 'rez_blogieciai1000list.txt'.
-1000 studentu (blogieciu) isvedimas i faila 'rez_blogieciai1000list.txt' uztruko 0.0119889 s.
-
-1000 irasu testas uztruko 0.0360196 s.
-
-Ar norite toliau testuoti (kitas testas - su 10000 irasu)? Iveskite t/n:
+Ar norite toliau testuoti (kitas testas - su 1000000 irasu)? Iveskite t/n:
 t
 
-Programos veikimo spartos testas su 10000 studentu pradetas.
+Programos veikimo spartos testas su 1000000 studentu pradetas.
 
 Duomenys nuskaityti.
-Duomenu (10000 studentu) nuskaitymas is failo uztruko 0.148037 s.
-10000 studentu rusiavimas uztruko 0.0120019 s.
-10000 studentu (gerieciu) isvedimas i faila 'rez_gerieciai10000list.txt' uztruko 0.0040007 s.
-Duomenys isvesti i faila 'rez_blogieciai10000list.txt'.
-10000 studentu (blogieciu) isvedimas i faila 'rez_blogieciai10000list.txt' uztruko 0.0698075 s.
+Duomenu (1000000 studentu) nuskaitymas is failo uztruko 11.7154 s.
+1000000 studentu rusiavimas uztruko 0.888236 s.
+1000000 studentu (gerieciu) isvedimas i faila 'rez_gerieciai1000000list.txt' uztruko 0 s.
+Duomenys isvesti i faila 'rez_blogieciai1000000list.txt'.
+1000000 studentu (blogieciu) isvedimas i faila 'rez_blogieciai1000000list.txt' uztruko 2.92465 s.
 
-10000 irasu testas uztruko 0.237849 s.
+1000000 irasu testas uztruko 15.5283 s.
+
+Ar norite toliau testuoti (kitas testas - su 10000000 irasu)? Iveskite t/n:
+t
+
+Programos veikimo spartos testas su 10000000 studentu pradetas.
+
+Duomenys nuskaityti.
+Duomenu (10000000 studentu) nuskaitymas is failo uztruko 83.0387 s.
+10000000 studentu rusiavimas uztruko 10.5451 s.
+10000000 studentu (gerieciu) isvedimas i faila 'rez_gerieciai10000000list.txt' uztruko 0.0040009 s.
+Duomenys isvesti i faila 'rez_blogieciai10000000list.txt'.
+10000000 studentu (blogieciu) isvedimas i faila 'rez_blogieciai10000000list.txt' uztruko 40.3048 s.
+
+10000000 irasu testas uztruko 133.901 s.
 
 4) Testavimo su list'u ir antraja strategija pavyzdys.
 
-Programos veikimo spartos testas su 1000 studentu pradetas.
-
-Duomenys nuskaityti.
-Duomenu (1000 studentu) nuskaitymas is failo uztruko 0.0160069 s.
-1000 studentu rusiavimas uztruko 0.0040034 s.
-1000 studentu (gerieciu) isvedimas i faila 'rez_gerieciai1000list.txt' uztruko 0 s.
-Duomenys isvesti i faila 'rez_blogieciai1000list.txt'.
-1000 studentu (blogieciu) isvedimas i faila 'rez_blogieciai1000list.txt' uztruko 0.0080041 s.
-
-1000 irasu testas uztruko 0.0280144 s.
-
-Ar norite toliau testuoti (kitas testas - su 10000 irasu)? Iveskite t/n:
+Ar norite toliau testuoti (kitas testas - su 1000000 irasu)? Iveskite t/n:
 t
 
-Programos veikimo spartos testas su 10000 studentu pradetas.
+Programos veikimo spartos testas su 1000000 studentu pradetas.
 
 Duomenys nuskaityti.
-Duomenu (10000 studentu) nuskaitymas is failo uztruko 0.144044 s.
-10000 studentu rusiavimas uztruko 0.0240127 s.
-10000 studentu (gerieciu) isvedimas i faila 'rez_gerieciai10000list.txt' uztruko 0 s.
-Duomenys isvesti i faila 'rez_blogieciai10000list.txt'.
-10000 studentu (blogieciu) isvedimas i faila 'rez_blogieciai10000list.txt' uztruko 0.0640073 s.
+Duomenu (1000000 studentu) nuskaitymas is failo uztruko 11.8911 s.
+1000000 studentu rusiavimas uztruko 0.952252 s.
+1000000 studentu (gerieciu) isvedimas i faila 'rez_gerieciai1000000list.txt' uztruko 0 s.
+Duomenys isvesti i faila 'rez_blogieciai1000000list.txt'.
+1000000 studentu (blogieciu) isvedimas i faila 'rez_blogieciai1000000list.txt' uztruko 2.42877 s.
 
-10000 irasu testas uztruko 0.236063 s.
+1000000 irasu testas uztruko 15.2721 s.
 
+Ar norite toliau testuoti (kitas testas - su 10000000 irasu)? Iveskite t/n:
+t
 
+Programos veikimo spartos testas su 10000000 studentu pradetas.
+
+Duomenys nuskaityti.
+Duomenu (10000000 studentu) nuskaitymas is failo uztruko 83.838 s.
+10000000 studentu rusiavimas uztruko 11.1962 s.
+10000000 studentu (gerieciu) isvedimas i faila 'rez_gerieciai10000000list.txt' uztruko 0.0019006 s.
+Duomenys isvesti i faila 'rez_blogieciai10000000list.txt'.
+10000000 studentu (blogieciu) isvedimas i faila 'rez_blogieciai10000000list.txt' uztruko 37.7844 s.
+
+10000000 irasu testas uztruko 132.82 s.
 
 
 
